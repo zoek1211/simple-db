@@ -9,7 +9,7 @@ Java · Gradle (Kotlin DSL) JDBC utility (`SimpleDb`, `Sql`, `Article`) for a Co
 
 ### Issue tracker
 
-Issues live as local markdown files under `.scratch/`. See `docs/agents/issue-tracker.md`.
+Issues live in GitHub Issues for zoek1211/simple-db (via `gh`). See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
